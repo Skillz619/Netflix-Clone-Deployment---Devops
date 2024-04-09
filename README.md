@@ -1,5 +1,7 @@
 # Netflix-Clone-Deployment---Devops
 
+Architecture
+![image](https://github.com/Skillz619/Netflix-Clone-Deployment---Devops/assets/43133388/ec0e6ddd-55ac-4fd9-9e5f-74a9a3615486)
 
 ## Phase 1: Initial Setup and Deployment
 
